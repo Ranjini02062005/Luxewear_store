@@ -1,0 +1,24 @@
+<svg viewBox="0 0 320 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lux" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff6b00"/>
+      <stop offset="100%" stop-color="#ff9a5a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Circle -->
+  <circle cx="50" cy="50" r="30"
+          stroke="url(#lux)" stroke-width="2" fill="none"/>
+
+  <!-- Stylish LW -->
+  <text x="35" y="58" font-size="20" font-family="Arial"
+        fill="url(#lux)" font-weight="bold">LW</text>
+
+  <!-- Text -->
+  <text x="110" y="50" font-size="28"
+        fill="#222" font-family="sans-serif"
+        letter-spacing="3">LUXEWEAR</text>
+
+  <text x="110" y="70" font-size="10"
+        fill="#888" letter-spacing="4">FASHION • STYLE</text>
+</svg>
